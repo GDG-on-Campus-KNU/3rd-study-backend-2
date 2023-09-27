@@ -4,4 +4,4 @@
 
 - 이재현
 
-- 권수현
+- [권수현](https://github.com/GDSC-KNU/3rd-study-backend-2/files/12736869/1.pdf)
