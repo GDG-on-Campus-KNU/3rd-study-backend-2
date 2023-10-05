@@ -4,4 +4,6 @@
 
 - [이재현1](https://cannot-afford-to-be-lazy.tistory.com/44)
 - [이재현2](https://cannot-afford-to-be-lazy.tistory.com/45)
-- [권수현]
+
+- [권수현](https://github.com/GDSC-KNU/3rd-study-backend-2/files/12813808/2.pdf)
+/ [발표자료](https://github.com/GDSC-KNU/3rd-study-backend-2/files/12813810/2.pdf)
