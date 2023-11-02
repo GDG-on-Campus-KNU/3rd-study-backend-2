@@ -1,4 +1,4 @@
-# 템플릿
+# 예외
 
 - [이상민](https://goto-pangyo.tistory.com/204)
 
