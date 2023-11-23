@@ -1,6 +1,6 @@
 # AOP
 
-- [이상민]
+- [이상민](https://goto-pangyo.tistory.com/206)
 
 - [이재현]
 
